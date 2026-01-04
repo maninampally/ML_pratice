@@ -1,7 +1,13 @@
+scikit-learn
+scipy
 pandas
 numpy
+seaborn
+matplotlib
 python-dotenv
 pymongo
 certifi
+catboost
+xgboost
 
 -e .
